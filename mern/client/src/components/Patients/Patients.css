@@ -1,0 +1,66 @@
+body {
+    background-color: #F3F3F3;
+}
+
+.table1 {
+    margin: auto;
+}
+
+.patienttableMainPage {
+    margin-top: 60px;
+    margin-left: 270px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-left: 20px;
+    background-color: rgb(255, 255, 255);
+    width: 60%;
+    border-radius: 20px;
+    box-shadow: 2px 2px 4px #989898;
+}
+
+.addpatient {
+    margin: auto;
+    padding-top: 25px;
+    background-color: rgb(255, 255, 255);
+    width: 50%;
+    border-radius: 20px;
+    box-shadow: 2px 2px 4px #989898;
+}
+
+#patientTh{
+    font-size: 20px;
+    width: 15%;
+    background-color: transparent;
+    text-align: center;
+}
+
+#patientTd {
+    text-align: center;
+    padding-top: 20px;
+}
+
+.view-icon {
+    cursor: pointer;
+    opacity: 35%;
+    width: 20px;
+    height:20px;
+    margin: auto;
+}
+
+.searchIcon {
+    float: left;
+    height: 60px;
+    width: 50px;
+    color: #2A628F;
+    background-color: white;
+    display: grid;
+    place-items: center;
+    margin-top: 0px; 
+  }
+
+.PatientSearchBar {
+    margin-top: 50px;
+    margin-left: 420px;
+    width: 50%;
+    height: 20px;
+}
